@@ -68,5 +68,5 @@ Next steps include:
 ## Author
 
 Sean Plumridge  
-IT Systems & Game Development Student  
-Nova Scotia Community College
+
+
