@@ -1,4 +1,7 @@
 # One More Run
+<p align="center">
+  <img src="images/omr-hero.jpg" width="900"/>
+</p>
 
 Unreal Engine 5 C++ time-trial game focused on modular gameplay architecture and physics-driven mechanics.
 
